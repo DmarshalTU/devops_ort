@@ -28,7 +28,9 @@
 ### **<kbd>CTRL</kbd> + click to open in new window**
 
 
+## 1. [Linux Basic commands](https://github.com/DmarshalTU/devops_ort/blob/main/wiki/linux.md)
 ## 1. [Docker](https://github.com/DmarshalTU/devops_ort/blob/main/wiki/docker.md)
+## 1. [Docker-Compose](https://github.com/DmarshalTU/devops_ort/blob/main/wiki/Compose.md)
 
 
 
